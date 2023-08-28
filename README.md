@@ -1,4 +1,4 @@
-# venturi
+# Tabela de funcionários
 def exibe_funcionarios(funcionarios):
     print('\n' + '-' * 50)
     print(f'{"NOME":^16}', end=' | ')
